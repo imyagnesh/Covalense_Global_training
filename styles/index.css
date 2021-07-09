@@ -1,0 +1,33 @@
+/* .ulClass :nth-child(3n) {
+  color: red;
+}
+a :hover,
+:focus {
+  color: gold;
+}
+p::first-line {
+  color: red;
+}
+::selection {
+  color: dodgerblue;
+  background-color: aqua;
+}
+p::before {
+  content: "#####";
+  color: gold;
+} */
+h1 {
+  color: gold;
+}
+.h1Class {
+  color: dodgerblue;
+}
+#h1Id {
+  color: red;
+}
+.article #h1Id {
+  color: aqua;
+}
+p {
+  color: #3437eb;
+}
